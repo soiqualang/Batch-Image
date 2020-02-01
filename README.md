@@ -7,6 +7,6 @@ Look `photo_auto_del_demo_guiKha.bat`
 
 https://stackoverflow.com/questions/48586277/creating-image-with-batch-cd
 
-https://community.spiceworks.com/topic/457018-self-deleting-batch-file-after-execution
+https://www.dostips.com/forum/viewtopic.php?t=5485
 
 
