@@ -9,4 +9,7 @@ https://stackoverflow.com/questions/48586277/creating-image-with-batch-cd
 
 https://www.dostips.com/forum/viewtopic.php?t=5485
 
+https://github.com/islamadel/bat2exe/
+
+https://www.bat2exe.net/
 
